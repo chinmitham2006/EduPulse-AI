@@ -1,0 +1,6 @@
+pandas
+matplotlib
+gradio
+transformers
+torch
+groq
